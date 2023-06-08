@@ -1,7 +1,8 @@
 def summa(a, b):
     return a + b
 
- def summa2(a, b):
+
+def summa2(a, b):
     return a - b
 
 
